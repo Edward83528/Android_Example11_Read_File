@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Read_File</string>
+    <string name="file_name">檔名:</string>
+    <string name="internal_read">內部檔案讀取</string>
+    <string name="internal_write">內部檔案寫入</string>
+    <string name="file_path">檔案路徑</string>
+    <string name="internal_read_temporary">內部暫存檔案讀取</string>
+    <string name="internal_write_temporary">內部暫存檔案寫入</string>
+    <string name="external_public">外部公開資料夾</string>
+    <string name="external_private">外部私有資料夾</string>
+
+
+</resources>
